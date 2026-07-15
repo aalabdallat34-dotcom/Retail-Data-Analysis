@@ -77,20 +77,21 @@ Retail-Store-Sales-Analysis/
 
 ---
 
-##  Dashboard Preview
+## Dashboard Preview
+
+| Executive Overview | Product Analysis | Category Analysis |
+|---|---|---|
+| <img src="images/executiveOverview.jpg" width="300"> | <img src="images/productPerformance.jpg" width="300"> | <img src="images/categoryAnalysis.jpg" width="300"> |
 
 
-| Executive Overview | Product Analysis |Category Analysis  |
-|--------------------|-------------------|------------------|
-| ![image.png](attachment:image.png) | ![image-2.png](attachment:image-2.png) | ![image-3.png](attachment:image-3.png) |
+| Customer Analysis | Payment & Discount Analysis | Sales Channel Analysis |
+|---|---|---|
+| <img src="images/customerInsight.jpg" width="300"> | <img src="images/paymentDiscountMethod.jpg" width="300"> | <img src="images/salesChannel.jpg" width="300"> |
 
-| Customer Analysis | Payment&Discount Analysis | Sales Channel Analysis |
-|-------------------|------------------|------------------------|
-| ![image-7.png](attachment:image-7.png) | ![image-4.png](attachment:image-4.png) | ![image-5.png](attachment:image-5.png) |
 
 | Time-Series Analysis |
-|----------------------|
-| ![image-6.png](attachment:image-6.png) |
+|---|
+| <img src="images/pricingStrategy.jpg" width="300"> |
 
 
 
