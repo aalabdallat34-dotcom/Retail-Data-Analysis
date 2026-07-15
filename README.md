@@ -40,14 +40,13 @@ This project analyzes retail sales data using **Python** and **Power BI** to unc
 
 ##  Dashboard Highlights
 
-- Sales Performance
-- Customer Analysis
+- Executive Overview
 - Product Analysis
-- Category Performance
-- Payment Method Analysis
-- Discount Analysis
+- Category Analysis
+- Customer Analysis
+- Payment & Discount Analysis
 - Sales Channel Analysis
-- Time-Series Trends
+- Pricing Strategy
 
 ---
 
@@ -89,7 +88,7 @@ Retail-Store-Sales-Analysis/
 | <img src="images/customerInsight.jpg" width="300"> | <img src="images/paymentDiscountMethod.jpg" width="300"> | <img src="images/salesChanel.jpg" width="300"> |
 
 
-| Time-Series Analysis |
+| Pricing Strategy |
 |---|
 | <img src="images/pricingStrategy.jpg" width="300"> |
 
