@@ -72,7 +72,7 @@ Retail-Store-Sales-Analysis/
 ├── report/
 ├── images/
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---
@@ -81,12 +81,12 @@ Retail-Store-Sales-Analysis/
 
 | Executive Overview | Product Analysis | Category Analysis |
 |---|---|---|
-| <img src="images/executiveOverview.jpg" width="300"> | <img src="images/productPerformance.jpg" width="300"> | <img src="images/categoryAnalysis.jpg" width="300"> |
+| <img src="images/excutiveOverveiw.jpg" width="300"> | <img src="images/productPerformance.jpg" width="300"> | <img src="images/categoryAnalysis.jpg" width="300"> |
 
 
 | Customer Analysis | Payment & Discount Analysis | Sales Channel Analysis |
 |---|---|---|
-| <img src="images/customerInsight.jpg" width="300"> | <img src="images/paymentDiscountMethod.jpg" width="300"> | <img src="images/salesChannel.jpg" width="300"> |
+| <img src="images/customerInsight.jpg" width="300"> | <img src="images/paymentDiscountMethod.jpg" width="300"> | <img src="images/salesChanel.jpg" width="300"> |
 
 
 | Time-Series Analysis |
